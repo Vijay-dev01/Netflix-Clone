@@ -1,8 +1,8 @@
 {
-  "name": "client",
+  "homepage": "https://vijay-dev01.github.io/Netflix_Clone/",
+  "name": "Netflix-Clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vijay-dev01.github.io/Netflix-Clone/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -46,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.0"
   }
 }
